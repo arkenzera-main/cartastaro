@@ -1,0 +1,13 @@
+{
+    "name": "CartasTarot",
+    "start_url": "/cartastaro",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
